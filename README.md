@@ -79,7 +79,7 @@ The following screens demonstrates the application functionality:
 
 ## Game
 
-![Game](./public/images/Game.png) 
+![Game](./public/images/game.png) 
 
 ## Heroku Deployment
 
