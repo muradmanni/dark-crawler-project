@@ -114,6 +114,7 @@ This project was built in Node.js using the express and sequelize packages utili
 * Model-View-Controller
 * dotenv
 * MySQL
+* nodemailer
 * Cookies
 * Sessions
 
